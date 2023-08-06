@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "description": "My new React project",
+    "name": "My new React project",
+    "version": "1.0.1",
+    "icons": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+    },
+    "action": {
+        "default_icon": {
+            "16": "icon.png",
+            "48": "icon.png",
+            "128": "icon.png"
+        },
+        "default_title": "Click Me",
+        "default_popup": "popup.html"
+    }
+}
